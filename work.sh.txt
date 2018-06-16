@@ -11,12 +11,12 @@ echo ++++++++++++++++++++++++++++++
 
 /cygdrive/c/dba/KT>./bashexec.sh
 
-C:\dba\.git\hooks>echo ++++++++++++++++++++++++++++++
+C:\Users\Cohen Beck\Documents\GitHub\Fae\hooks>echo ++++++++++++++++++++++++++++++
 ++++++++++++++++++++++++++++++
 
-C:\dba\.git\hooks>echo This is launch.bat script
+C:\Users\Cohen Beck\Documents\GitHub\Fae\hooks>echo This is launch.bat script
 This is launch.bat script
 
-C:\dba\.git\hooks>echo ++++++++++++++++++++++++++++++
+C:\Users\Cohen Beck\Documents\GitHub\Fae\hooks>echo ++++++++++++++++++++++++++++++
 ++++++++++++++++++++++++++++++
 /cygdrive/c/dba/KT>
