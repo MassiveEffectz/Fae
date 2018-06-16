@@ -1,6 +1,7 @@
 {
     "355497131202838528" : {
         "gutenmorgen" : "GutenMorgen",
-        "rfroll" : "/r 1d30>=15"
+        "rfroll" : "/r 1d30>=15",
+        "yuupeek" : "YuuPeek"
     }
 }
