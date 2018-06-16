@@ -1,0 +1,22 @@
+/cygdrive/c/dba/KT>cat ./bashexec.sh
+#!/bin/bash
+
+cd ../.git/hooks
+cmd /c launch.bat
+
+/cygdrive/c/dba/KT>cat ../.git/hooks/launch.bat
+echo ++++++++++++++++++++++++++++++
+echo This is launch.bat script
+echo ++++++++++++++++++++++++++++++
+
+/cygdrive/c/dba/KT>./bashexec.sh
+
+C:\dba\.git\hooks>echo ++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++
+
+C:\dba\.git\hooks>echo This is launch.bat script
+This is launch.bat script
+
+C:\dba\.git\hooks>echo ++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++
+/cygdrive/c/dba/KT>
