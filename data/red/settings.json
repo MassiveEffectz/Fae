@@ -1,0 +1,14 @@
+{
+    "EMAIL" : null,
+    "OWNER" : "162947807789973504",
+    "PASSWORD" : null,
+    "PREFIXES" : [
+        "&"
+    ],
+    "TOKEN" : "NDU3MjU4Nzg2MDA5MzgyOTIy.DgWe_Q.KqTu8tSOho5GR7sSLY6T0MCdfjU",
+    "default" : {
+        "ADMIN_ROLE" : "Never Ducky",
+        "MOD_ROLE" : "Process",
+        "PREFIXES" : []
+    }
+}
